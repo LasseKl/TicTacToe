@@ -1,0 +1,5 @@
+C:\Users\FirstObserver\Desktop\TicTacToe\Test\TicTacToe\GameFramework\bin\Debug\GameFramework.dll
+C:\Users\FirstObserver\Desktop\TicTacToe\Test\TicTacToe\GameFramework\bin\Debug\GameFramework.pdb
+C:\Users\FirstObserver\Desktop\TicTacToe\Test\TicTacToe\GameFramework\obj\Debug\GameFramework.csprojResolveAssemblyReference.cache
+C:\Users\FirstObserver\Desktop\TicTacToe\Test\TicTacToe\GameFramework\obj\Debug\GameFramework.dll
+C:\Users\FirstObserver\Desktop\TicTacToe\Test\TicTacToe\GameFramework\obj\Debug\GameFramework.pdb

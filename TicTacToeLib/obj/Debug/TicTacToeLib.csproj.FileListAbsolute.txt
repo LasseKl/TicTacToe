@@ -1,0 +1,7 @@
+C:\Users\FirstObserver\Desktop\TicTacToe\Test\TicTacToe\TicTacToeLib\bin\Debug\TicTacToeLib.dll
+C:\Users\FirstObserver\Desktop\TicTacToe\Test\TicTacToe\TicTacToeLib\bin\Debug\TicTacToeLib.pdb
+C:\Users\FirstObserver\Desktop\TicTacToe\Test\TicTacToe\TicTacToeLib\obj\Debug\TicTacToeLib.csprojResolveAssemblyReference.cache
+C:\Users\FirstObserver\Desktop\TicTacToe\Test\TicTacToe\TicTacToeLib\obj\Debug\TicTacToeLib.dll
+C:\Users\FirstObserver\Desktop\TicTacToe\Test\TicTacToe\TicTacToeLib\obj\Debug\TicTacToeLib.pdb
+C:\Users\FirstObserver\Desktop\TicTacToe\Test\TicTacToe\TicTacToeLib\bin\Debug\GameFramework.dll
+C:\Users\FirstObserver\Desktop\TicTacToe\Test\TicTacToe\TicTacToeLib\bin\Debug\GameFramework.pdb
